@@ -3,9 +3,9 @@
 A solution to a short exercise started on 2022-06-05 where me and some friends try to come up with the smallest (not necessarily the most elegant) solution to a standard factorial in plain C.
 
 ## Highscore
-|Date|Name|LOC|Solution|
-|----|----|---|--------|
-|2022-06-05|Clifford Carnmo|3|https://github.com/cliffordcarnmo/minifac/blob/main/minifac.c|
+|#|Date|Name|LOC|Solution|
+|-|----|----|---|--------|
+|1|2022-06-05|Clifford Carnmo|3|https://github.com/cliffordcarnmo/minifac/blob/main/minifac.c|
 
 ## Rules
 
