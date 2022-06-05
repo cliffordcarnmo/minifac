@@ -15,7 +15,7 @@ A solution to a short exercise started on 2022-06-05 where me and some friends t
 * The result __must__ be printed __once__ from within the `factorial()` method.
 * You can __only__ use plain C and the C standard library, no inline assembly or third party libraries.
 * The code __must__ be preprocessed, compiled, assembled and linked with standard `cpp`, `gcc`, `as` and `ld`.
-* The binary __must__ be standalone and runnable executable.
+* The binary __must__ be a standalone and runnable executable.
 * You __may not__ hack the binary file format, headers or similar.
 * The binary __must not__ crash if you feed it with weird arguments.
 * The following warning options __must__ be passed to GCC: `-Wall -Wextra -Werror`
