@@ -4,7 +4,7 @@
 void factorial(unsigned int number) {
 	static unsigned int result = 1;
 	number >= 1 ? result *= number, factorial(--number) : 0;
-	printf(number == 1 ? "%u\n" : "", result);
+	number == 1 ? printf("%u\n", result) : 0;
 }
 
 int main(int argc, char *argv[]){
