@@ -2,11 +2,6 @@
 
 A solution to a short exercise started on 2022-06-05 where me and some friends try to come up with the smallest (not necessarily the most elegant) solution to a standard factorial in plain C.
 
-## Highscore
-|#|Date|Name|LOC|Elegance|Comment|Solution|
-|-|----|----|---|--------|-------|--------|
-|1|2022-06-05|Clifford Carnmo|2|3/5|Quite chatty but it gets the job done.|https://github.com/cliffordcarnmo/minifac/blob/main/minifac.c|
-
 ## Rules
 
 * The solution __must__ be confined to a single method with the signature `void factorial(unsigned int number)`.
